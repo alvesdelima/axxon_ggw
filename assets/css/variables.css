@@ -1,0 +1,19 @@
+:root {
+  --color-primary: #8B00FF;
+  --color-primary-light: #A020F0;
+  --color-primary-soft: #C060FF;
+
+  --color-background: #0A0A0A;
+  --color-surface: #141018;
+  --color-surface-secondary: #1E1528;
+
+  --color-white: #FFFFFF;
+  --color-text-muted: #B5B5B5;
+
+  --color-success: #00C864;
+  --color-danger: #FF3B30;
+  --color-warning: #F59E0B;
+
+  --font-heading: 'Rajdhani', sans-serif;
+  --font-body: 'Exo 2', sans-serif;
+}
